@@ -1,0 +1,152 @@
+[
+  {
+    "id": 16,
+    "fecha_local": "2020/06/12 13:35:19",
+    "fecha_utc": "2020/06/12 17:35:19",
+    "latitud": "-23.104",
+    "longitud": "-68.918",
+    "profundidad": "93.1",
+    "magnitud": "3.4 Ml",
+    "referencia_geografica": "47 km al SE de Sierra Gorda"
+  },
+  {
+    "id": 15,
+    "fecha_local": "2020/06/12 14:13:00",
+    "fecha_utc": "2020/06/12 18:13:00",
+    "latitud": "-19.502",
+    "longitud": "-69.777",
+    "profundidad": "72.6",
+    "magnitud": "3.4 Ml",
+    "referencia_geografica": "42 km al SO de Camiña"
+  },
+  {
+    "id": 14,
+    "fecha_local": "2020/06/13 01:14:40",
+    "fecha_utc": "2020/06/13 05:14:40",
+    "latitud": "-20.518",
+    "longitud": "-69.104",
+    "profundidad": "96.0",
+    "magnitud": "3.7 Ml",
+    "referencia_geografica": "24 km al E de Pica"
+  },
+  {
+    "id": 13,
+    "fecha_local": "2020/06/13 06:37:02",
+    "fecha_utc": "2020/06/13 10:37:02",
+    "latitud": "-31.883",
+    "longitud": "-70.091",
+    "profundidad": "124.9",
+    "magnitud": "3.3 Ml",
+    "referencia_geografica": "47 km al E de Mina Los Pelambres"
+  },
+  {
+    "id": 12,
+    "fecha_local": "2020/06/13 07:21:20",
+    "fecha_utc": "2020/06/13 11:21:20",
+    "latitud": "-22.363",
+    "longitud": "-69.138",
+    "profundidad": "88.7",
+    "magnitud": "3.0 Ml",
+    "referencia_geografica": "24 km al NO de Calama"
+  },
+  {
+    "id": 11,
+    "fecha_local": "2020/06/13 08:04:47",
+    "fecha_utc": "2020/06/13 12:04:47",
+    "latitud": "-24.287",
+    "longitud": "-67.285",
+    "profundidad": "175.0",
+    "magnitud": "4.1 Ml",
+    "referencia_geografica": "99 km al SE de Socaire"
+  },
+  {
+    "id": 10,
+    "fecha_local": "2020/06/13 09:19:22",
+    "fecha_utc": "2020/06/13 13:19:22",
+    "latitud": "-27.731",
+    "longitud": "-70.360",
+    "profundidad": "89.7",
+    "magnitud": "3.7 Ml",
+    "referencia_geografica": "29 km al S de Tierra Amarilla"
+  },
+  {
+    "id": 9,
+    "fecha_local": "2020/06/13 13:33:52",
+    "fecha_utc": "2020/06/13 17:33:52",
+    "latitud": "-22.220",
+    "longitud": "-67.709",
+    "profundidad": "205.1",
+    "magnitud": "3.3 Ml",
+    "referencia_geografica": "93 km al NE de San Pedro de Atacama"
+  },
+  {
+    "id": 8,
+    "fecha_local": "2020/06/13 15:19:35",
+    "fecha_utc": "2020/06/13 19:19:35",
+    "latitud": "-36.726",
+    "longitud": "-70.946",
+    "profundidad": "187.1",
+    "magnitud": "3.7 Ml",
+    "referencia_geografica": "57 km al E de San Fabián"
+  },
+  {
+    "id": 7,
+    "fecha_local": "2020/06/13 15:33:39",
+    "fecha_utc": "2020/06/13 19:33:39",
+    "latitud": "-22.754",
+    "longitud": "-68.713",
+    "profundidad": "107.5",
+    "magnitud": "3.1 Ml",
+    "referencia_geografica": "39 km al SE de Calama"
+  },
+  {
+    "id": 6,
+    "fecha_local": "2020/06/13 20:38:01",
+    "fecha_utc": "2020/06/14 00:38:01\t",
+    "latitud": "-35.975",
+    "longitud": "-71.181",
+    "profundidad": "178.3",
+    "magnitud": "3.3 Ml",
+    "referencia_geografica": "40 km al E de Linares"
+  },
+  {
+    "id": 5,
+    "fecha_local": "2020/06/13 20:50:36",
+    "fecha_utc": "2020/06/14 00:50:36",
+    "latitud": "-29.251",
+    "longitud": "-70.768",
+    "profundidad": "76.5",
+    "magnitud": "3.0 Ml",
+    "referencia_geografica": "51 km al NE de La Higuera"
+  },
+  {
+    "id": 4,
+    "fecha_local": "2020/06/13 23:03:28",
+    "fecha_utc": "2020/06/14 03:03:28",
+    "latitud": "-20.305",
+    "longitud": "-69.211",
+    "profundidad": "108.4",
+    "magnitud": "3.2 Ml",
+    "referencia_geografica": "24 km al NE de Pica"
+  },
+  {
+    "id": 3,
+    "fecha_local": "2020/06/14 01:03:48",
+    "fecha_utc": "2020/06/14 05:03:48",
+    "latitud": "-18.587",
+    "longitud": "-69.561",
+    "profundidad": "92.1",
+    "magnitud": "3.2 Ml",
+    "referencia_geografica": "43 km al S de Putre"
+  },
+  {
+    "id": 2,
+    "fecha_local": "2020/06/14 01:36:02",
+    "fecha_utc": "2020/06/14 05:36:02",
+    "latitud": "-23.885",
+    "longitud": "-67.103",
+    "profundidad": "232.6",
+    "magnitud": "4.1 Ml",
+    "referencia_geografica": "87 km al E de Socaire"
+  }
+]
